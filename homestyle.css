@@ -62,9 +62,9 @@ body{
     text-align: center;
 }
 .socials{
-    display: flex;
+    display: right;
     justify-content: center;
-    align-items: center;
+    align-items: right;
 }
 .socials a{
     margin-right: 10px;
